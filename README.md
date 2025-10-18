@@ -19,3 +19,11 @@ I work with **analytics, data visualization, and business intelligence**, enjoy 
 - **Libraries:** Pandas (currently learning Dask and Scikit-Learn) 
 - **Tools:** Jupyter, VSCode, Git, Excel, Power BI, Tableau, Figma
 - **Areas:** Data analysis, business analytics, data visualization, ETL
+
+## 🚀 Experience & Projects
+
+- **Banking Customer Segmentation:** Divided banking customers into clusters by analyzing transaction logs using Python with Dask.  
+- **Case Competitions:** Participated in fintech and FMCG case competitions as an analyst and designer.  
+- **Interactive Dashboards:** Built interactive sales dashboards in Power BI and Tableau.  
+- **Web Scraping:** Parsed websites using Python with BeautifulSoup.  
+
