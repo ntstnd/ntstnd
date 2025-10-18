@@ -20,6 +20,8 @@ I work with **analytics, data visualization, and business intelligence**, enjoy 
 - **Tools:** Jupyter, VSCode, Git, Excel, Power BI, Tableau, Figma
 - **Areas:** Data analysis, business analytics, data visualization, ETL
 
+---
+
 ## 🚀 Experience & Projects
 
 - **Banking Customer Segmentation:** Divided banking customers into clusters by analyzing transaction logs using Python with Dask.  
